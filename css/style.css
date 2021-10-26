@@ -1,0 +1,28 @@
+body {
+    background-color:floralwhite;
+    color: rgb(53, 53, 53);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a, a:link, a:visited {
+    color:goldenrod;
+}
+
+h1, h2 {
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main-nav {
+    font-size: 1.1em;
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+}
+
+.main-nav li {
+    padding-bottom: 10px;
+}
